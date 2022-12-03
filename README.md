@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @helixthegalaxian
 - 👀 I’m interested in gaming and software engineering
-- 🌱 I’m currently learning not much I graduated 3 months ago
-- 💞️ I’m looking to collaborate on I Don't really collaborate on anything
+- 🌱 I graduated 3 months ago
+- 💞️ I Don't really collaborate on anything
 - 📫 How to reach me ...
 
 <!---
